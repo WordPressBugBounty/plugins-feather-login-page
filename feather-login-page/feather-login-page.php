@@ -1,8 +1,8 @@
 <?php
 /*
-* Plugin Name: PluginOps - Feather Login Page
+* Plugin Name: Feather Login Page By PluginOps
 * Description: Design beautiful login page for your website and add security features like recaptcha.
-* Version: 1.1.6
+* Version: 1.1.7
 * Author: PluginOps
 * Text Domain: feather-login-page
 * Domain Path: /languages

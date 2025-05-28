@@ -1,10 +1,10 @@
 === Login | Login Page | Login Logo | Rename Login Page | Custom Login Page | Temporary Users | Rebrand Login | Login Captcha ===
-Contributors: pluginops, featherplugins
+Contributors: pluginops
 Tags: login, custom login, login page, custom login page, login design, login logo, security, login page builder, login customization, login themes, login branding,  login redirect, registration form, signup form, user login, WordPress login, login form,  login reCAPTCHA, login captcha, admin login, login security, login protection, WordPress branding
 Requires at least: 3.9
 Donate link : https://pluginops.com/feather-login-page/
-Tested up to:  6.4.3
-Stable tag: 1.1.6
+Tested up to:  6.8
+Stable tag: 1.1.7
 License: GPLv3
 Requires PHP: 5.0
 License: GPLv3
